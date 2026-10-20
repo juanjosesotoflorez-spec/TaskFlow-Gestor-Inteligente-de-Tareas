@@ -30,7 +30,7 @@ Este proyecto fue desarrollado para fortalecer conocimientos en desarrollo web y
   <br><br>
   🔗 <strong>Ver proyecto en línea:</strong>
   <br>
-  <a href="https://TU-USUARIO.github.io/TaskFlow/">
+  <a href="https://tubular-otter-6467b3.netlify.app">
     <strong>ABRIR TASKFLOW</strong>
   </a>
 </p>
@@ -57,4 +57,42 @@ Este proyecto fue desarrollado para fortalecer conocimientos en desarrollo web y
 | JavaScript | Lógica e interacción de la aplicación. |
 | LocalStorage | Almacenamiento local de las tareas. |
 
-## 📂 Estructura del
+## 📂 Estructura del proyecto
+
+```text
+TaskFlow/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── app.js
+└── README.md
+```
+
+## 💾 Almacenamiento de datos
+
+TaskFlow utiliza LocalStorage para guardar las tareas en el navegador. La información permanece disponible al volver a abrir la aplicación desde el mismo navegador, siempre que no se borren sus datos almacenados.
+
+Actualmente, las tareas no se sincronizan entre dispositivos ni entre diferentes navegadores.
+
+## 🔮 Mejoras futuras
+
+- 📤 Exportar e importar tareas.
+- ⏰ Incorporar recordatorios de actividades.
+- 📈 Agregar estadísticas por categoría.
+- ☁️ Implementar sincronización en la nube.
+- 🔐 Incorporar autenticación de usuarios.
+
+## 👨‍💻 Autor
+
+**Juan José Soto Flórez**
+
+Estudiante del Tecnólogo en Análisis y Desarrollo de Software (ADSO) del SENA, interesado en el desarrollo web y la creación de soluciones digitales.
+
+---
+
+<p align="center">
+  💚 <strong>TaskFlow — Organiza tus tareas, alcanza tus metas.</strong>
+  <br>
+  Hecho con dedicación para seguir aprendiendo y creciendo como desarrollador.
+</p>
