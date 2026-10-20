@@ -7,90 +7,54 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
-## 📌 Descripción
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=20B66A&center=true&vCenter=true&width=600&lines=Organiza+tus+tareas;Controla+tu+progreso;Alcanza+tus+objetivos+con+TaskFlow" alt="Animación de presentación de TaskFlow">
+</p>
+
+## 📌 Sobre el proyecto
 
 **TaskFlow** es una aplicación web diseñada para organizar tareas de estudio, trabajo y actividades personales de forma sencilla, visual y eficiente.
 
 Su interfaz moderna permite crear, editar, eliminar y clasificar tareas, consultar el progreso de las actividades y mantener la información guardada en el navegador.
 
-Este proyecto fue desarrollado como práctica de desarrollo web para fortalecer conocimientos en HTML, CSS y JavaScript.
+Este proyecto fue desarrollado para fortalecer conocimientos en desarrollo web y construir una solución práctica para la organización personal.
+
+## 🌐 Prueba TaskFlow
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TaskFlow-Disponible%20pr%C3%B3ximamente-20b66a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo de TaskFlow">
+</p>
+
+<p align="center">
+  🚀 <strong>¡Organiza tus actividades y lleva el control de tus tareas!</strong>
+  <br><br>
+  🔗 <strong>Ver proyecto en línea:</strong>
+  <br>
+  <a href="https://TU-USUARIO.github.io/TaskFlow/">
+    <strong>ABRIR TASKFLOW</strong>
+  </a>
+</p>
+
+> **Importante:** reemplaza el enlace de ejemplo por la dirección real de tu página publicada. Cuando tengas la URL definitiva, también puedes cambiar el mensaje de disponibilidad.
 
 ## ✨ Funcionalidades principales
 
 - 📝 Crear, editar y eliminar tareas.
-- 📊 Consultar estadísticas y progreso de las actividades.
-- 🎯 Clasificar tareas por prioridad.
+- 📊 Consultar estadísticas y porcentaje de progreso.
+- 🎯 Clasificar actividades por prioridad.
 - 🔄 Gestionar estados: pendiente, en proceso y completada.
 - 🔎 Buscar tareas por título, descripción o categoría.
-- 📅 Filtrar actividades por fecha límite.
-- 💾 Guardar información mediante LocalStorage.
-- 📱 Interfaz adaptable a computadores, tabletas y celulares.
+- 📅 Filtrar actividades según su fecha límite.
+- 💾 Guardar tareas mediante LocalStorage.
+- 📱 Diseño adaptable a computadores, tabletas y celulares.
 
 ## 🛠️ Tecnologías utilizadas
 
-| Tecnología | Uso |
+| Tecnología | Aplicación en el proyecto |
 |---|---|
-| HTML5 | Estructura de la aplicación. |
-| CSS3 | Diseño visual y adaptación a diferentes pantallas. |
-| JavaScript | Funcionalidades e interacción con el usuario. |
+| HTML5 | Estructura de la página web. |
+| CSS3 | Diseño visual, animaciones y adaptación a pantallas. |
+| JavaScript | Lógica e interacción de la aplicación. |
 | LocalStorage | Almacenamiento local de las tareas. |
 
-## 📂 Estructura del proyecto
-
-```text
-TaskFlow/
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── app.js
-└── README.md
-```
-
-## 🚀 Instalación y ejecución
-
-1. Clona este repositorio:
-
-   ```bash
-   git clone https://github.com/TU-USUARIO/TaskFlow.git
-   ```
-
-2. Ingresa a la carpeta del proyecto:
-
-   ```bash
-   cd TaskFlow
-   ```
-
-3. Abre la carpeta en Visual Studio Code.
-
-4. Ejecuta `index.html` en tu navegador o utiliza la extensión Live Server.
-
-## 🌐 Demo en línea
-
-**Próximamente:** aquí podrás encontrar el enlace para probar TaskFlow directamente desde tu navegador.
-
-Cuando publiques el proyecto con GitHub Pages, reemplaza este texto por tu enlace público.
-
-## 💾 Almacenamiento de datos
-
-TaskFlow utiliza LocalStorage para guardar las tareas en el navegador. Esto permite conservar la información al cerrar y volver a abrir la página en el mismo navegador.
-
-Actualmente, los datos no se sincronizan entre dispositivos ni entre diferentes navegadores.
-
-## 🔮 Mejoras futuras
-
-- Exportación e importación de tareas.
-- Recordatorios de actividades.
-- Estadísticas por categoría.
-- Sincronización en la nube.
-- Autenticación de usuarios.
-
-## 👨‍💻 Autor
-
-**Juan José Soto Flórez**
-
-Estudiante del Tecnólogo en Análisis y Desarrollo de Software (ADSO) del SENA, interesado en el desarrollo web y la creación de soluciones digitales.
-
----
-
-⭐ Si te gusta este proyecto, puedes darle una estrella al repositorio.
+## 📂 Estructura del
